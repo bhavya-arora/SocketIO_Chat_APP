@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/30223933/52688634-3fd74200-2f7d-11e9-8280-d5a713125460.jpg" alt="alt text"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/UntriedFrigidAddax-small.gif" height="500" alt="alt text"></p>
 
 <p align="center">This is just a simple Chat Application in which a user can join the room and continue chatting with others.  </p></br></br>  
 
